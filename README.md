@@ -1,4 +1,4 @@
-# INTRODUCTION 
+INTRODUCTION 
 
 ![Banner](https://files.catbox.moe/5edof5.jpg)
 
@@ -13,38 +13,7 @@
 <img src="https://img.shields.io/github/stars/ItsMichiio/REPO?style=social">
 </p>
 
----
-
-## 📁 Project Structure
-
-```
-.
-├── plugins
-├── database
-├── handler
-├── lib
-├── index.js
-└── package.json
-```
-
----
-
-## 👨‍💻 Author
-
-GitHub:
-https://github.com/ItsMichiio
-
----
-
-## ⭐ Support
-
-If you like this project, please give it a **star ⭐ on GitHub**.
-* 📚 Learning more about **JavaScript ecosystem**
-* 🎯 Creator of **MichioProject**
-
----
-
-## ⏳ Development Activity
+Development Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PrinXz&show_icons=true&theme=tokyonight">
@@ -54,16 +23,12 @@ If you like this project, please give it a **star ⭐ on GitHub**.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinXz&theme=tokyonight">
 </p>
 
----
-
-## 🛠 Languages & Tools
+ Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode,linux" />
 </p>
 
----
-
-## 🚀 Current Project
+Current Project
 
 Currently working on **WhatsApp Bot using Node.js** with modular command system and plugin support.
